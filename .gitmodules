@@ -1,0 +1,9 @@
+[submodule "WarpDWI"]
+	path = WarpDWI
+	url = https://github.com/pnlbwh/WarpDWI.git
+[submodule "GroupwiseRegistration"]
+	path = GroupwiseRegistration
+	url = https://github.com/pnlbwh/GroupwiseRegistration.git
+[submodule "AvgDWIs"]
+	path = AvgDWIs
+	url = https://github.com/pnlbwh/AvgDWIs.git
